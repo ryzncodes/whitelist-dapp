@@ -1,17 +1,10 @@
-# Basic Sample Hardhat Project
+Basic DApp to whitelist first 10 visitors coming into the site.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
+Deployed Whitelist.sol contract address: 0x74bB59fbFbCAa0A32caF02141b443252aBc85B5e
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
-"# whitelist-dapp" 
-"# whitelist-dapp" 
+Using ethers.js to connect deploy script to smart contract.
+
+Alchemy as platform layer to deploy smart contract. Lets me connect to one of the blockchain node to post transaction to the blockchain.
+
+Using rinkeby test server to test.
