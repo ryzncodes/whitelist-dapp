@@ -34,7 +34,7 @@
 
 .button {
   border-radius: 4px;
-  background-color: blue;
+  background-color: rgb(0, 0, 0);
   border: none;
   color: #ffffff;
   font-size: 15px;
