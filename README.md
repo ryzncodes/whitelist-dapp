@@ -13,3 +13,5 @@ Using rinkeby test server to test.
 WebDev: Using React & Next Js framework
 React = Make websites using jsx 
 Next = backend api codes
+
+Deployed to Vercel = https://whitelist-dapp-iota-sandy.vercel.app/
